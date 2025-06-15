@@ -1,7 +1,38 @@
-#kitty{
+#kitty
+{
     width: 100px;
     height: 100px;
     position: relative;
     top: 0;
     left: 0;
+}
+
+.intro
+    {
+       padding: 30px;
+        width: 850px;
+        border: 50px white;
+        background-color: black;
+        color: white;
+        font-size: 15px;font-family: Arial;
+    }
+
+.choco 
+{display: flex;
+justify-content: center;}
+
+.torta {display: flex;
+justify-content: center;}
+
+h1 {color: white;}
+
+.gamestitle 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.games 
+{
+
 }
