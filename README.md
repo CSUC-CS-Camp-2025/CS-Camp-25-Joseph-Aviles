@@ -6,6 +6,3 @@ You can use github codespaces to edit the files directly in the browser.
 # How to run a preview of your webpage in codespaces:
 In terminal, run the following command:
 ```php -S localhost:3006 -t ./php -S localhost:3006 -t ./```
-Then, open your browser and type in the following URL:
-```http://localhost:3006/```
-To quit the server, press `Ctrl+C` in terminal.
