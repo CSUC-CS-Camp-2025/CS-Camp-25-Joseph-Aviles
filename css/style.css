@@ -21,6 +21,15 @@
 {display: flex;
 justify-content: center;}
 
+.games1
+{ display: flex;
+justify-content:center;
+}
+.games2
+{display: flex;}
+
+
+
 .torta {display: flex;
 justify-content: center;}
 

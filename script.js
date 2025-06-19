@@ -1,5 +1,5 @@
 var games = ["Dead By daylight", "Dying Light", "Roblox",
-    "Terraria", "Marvel Rivals"];
+    "Terraria", "Marvel Rivals","Sudoku"];
 
 const PRESSME = document.createElement('button');
 PRESSME.textContent = 'Click to see a list of my favorite games!';
