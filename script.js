@@ -3,6 +3,7 @@ var games = ["Dead By daylight", "Dying Light", "Roblox",
 
 const PRESSME = document.createElement('button');
 PRESSME.textContent = 'Click to see a list of my favorite games!';
+ 
 //creates button with text (not clickable yet)
 
 document.body.appendChild(PRESSME);
